@@ -25,8 +25,20 @@ function sleep(ms) {
 }
 
 window.onload = async () => {
-	await sleep(300);
-	 logger.log("ZeRo$ense", "welcome to Auswitz");
-	 await sleep(500);
+	await sleep(400);
+	 logger.log("ZeRo$ense", "welcome to Hell");
+	 await sleep(400);
 	 logger.log("ZeRo$ense", "currently playing: lil bo weep - i wrote this song 4 u");
+   await sleep(400);
+   logger.log("ZeRo$ense", "hit Supremacy user in head for 127");
+   await sleep(400);
+   logger.log("ZeRo$ense", "hit GameSense user in head for 1337");
+   await sleep(400);
+   logger.log("ZeRo$ense", "hit Aimware user in head for 420");
+   await sleep(400);
+   logger.log("ZeRo$ense", "hit All in head for 666");
+   await sleep(800);
+   logger.log("MEANWHILE"," ");
+   await sleep(600);
+   logger.log("All other cheats", "Missed ZeRo$ense users due to bad cheat");
 }
