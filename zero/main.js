@@ -28,5 +28,5 @@ window.onload = async () => {
 	await sleep(300);
 	 logger.log("ZeRo$ense", "welcome to Auswitz");
 	 await sleep(500);
-	 logger.log("ZeRo$ense", "current playing: lil bo weep - i wrote this song 4 u");
+	 logger.log("ZeRo$ense", "currently playing: lil bo weep - i wrote this song 4 u");
 }
